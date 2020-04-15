@@ -1,0 +1,15 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# MacOs Files
+.DS_Store
+*.DS_Store
+*/.DS_Store
+
+# Playground files
+*playground*
+
